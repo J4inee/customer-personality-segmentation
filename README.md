@@ -5,7 +5,7 @@ This is an academic project under the **Data Science and Machine Learning: Makin
 ## objectives:
 To use machine learning techniques to segment the customer base and provide actionable insights to the characteristics of each segment.
 
-#### **Data Dictionary**  
+# **Data Dictionary**  
 The dataset includes historical data on customer demographics, personality traits, and purchasing behaviors. Key attributes are:  
 
 1. **Customer Information**  
